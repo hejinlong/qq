@@ -1,0 +1,4 @@
+name = QQ
+description = QQ account can login drupal.
+package = Oauth
+core = 7.x
